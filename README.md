@@ -2,7 +2,7 @@
  Modifications of Several markdown plugins's stylesheets for a eautiful look in editor and render
 
 
-![DEMO](/images/2020/12/atom_PcUIwKwXPu.png)
+![DEMO](/img/atom_PcUIwKwXPu.png)
 
 ## installation
 

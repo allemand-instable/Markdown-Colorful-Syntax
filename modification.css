@@ -1,0 +1,112 @@
+/* MARKDOWN */
+
+/*
+
+INSTALLATION INSTRUCTION :
+paste this to : C:\Users\YOUR_USER_NAME\.atom\styles.less
+
+*/
+
+
+.syntax--source.syntax--gfm .syntax--markup.syntax--heading{
+
+      font-size: 115%;
+      font-weight : bold;
+
+}
+
+.syntax--source.syntax--gfm .syntax--markup.syntax--heading-1 {
+    color: #c44569;
+    background-color: rgba(196, 69, 105, 0.10);
+
+
+}
+
+.syntax--source.syntax--gfm .syntax--markup.syntax--heading-2 {
+    color: #33d9b2;
+    background-color: rgba(51, 217, 178, 0.1);
+}
+
+.syntax--source.syntax--gfm .syntax--markup.syntax--heading-4 {
+    color: #ff793f;
+    background-color: rgba(255, 121, 63, 0.1);
+}
+
+.syntax--source.syntax--gfm .syntax--markup.syntax--heading-5 {
+    color: #808e9b;
+    background-color: rgba(210, 218, 226,0.1);
+}
+
+.syntax--source.syntax--gfm .syntax--markup.syntax--heading-3 {
+    color: #778beb;
+    background-color: rgba(119, 139, 235, 0.1);
+}
+
+.syntax--source.syntax--gfm .syntax--markup.syntax--heading-6 {
+    color: #d2dae2;
+    background-color: rgba(210, 218, 226,0.1);
+}
+
+.syntax--variable {
+  color: #F07178;
+}
+
+.syntax--critic.syntax--gfm.syntax--addition {
+	color: #218c74;
+}
+
+.syntax--critic.syntax--gfm.syntax--deletion {
+	color: crimson;
+}
+
+.syntax--critic.syntax--gfm.syntax--highlight {
+	background-color: #ffda79;
+	color: rgb(0,0,0);
+  font-weight: bold;
+  font-size: 105%
+}
+
+.syntax--comment.syntax--quote.syntax--gfm {
+	color: #3dc1d3;
+	background-color: rgba(99, 205, 218,0.05);
+}
+
+.syntax--markup.syntax--raw.syntax--gfm {
+	letter-spacing: .3rem;
+	font-family: Consolas;
+	font-weight: bold;
+	font-size: inherit;
+	background-color: rgba(53, 59, 72,0.6);
+}
+
+.syntax--support.syntax--gfm {
+	color: aqua;
+}
+
+/*
+[data-grammar*="gfm"] .syntax--markup.syntax--heading {
+    color: inherit;
+}
+*/
+
+.syntax--markup.syntax--heading.syntax--marker.syntax--gfm {
+	color: inherit;
+}
+
+.syntax--critic.syntax--gfm.syntax--substitution.syntax--marker{
+
+    color : #F97F51;
+
+}
+
+.syntax--critic.syntax--gfm.syntax--substitution.syntax--operator{
+
+    color : #F97F51;
+
+}
+
+.syntax--critic.syntax--gfm.syntax--substitution{
+
+    color: rgba(241, 196, 15, 1);
+
+}

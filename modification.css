@@ -10,8 +10,9 @@ paste this to : C:\Users\YOUR_USER_NAME\.atom\styles.less
 
 .syntax--source.syntax--gfm .syntax--markup.syntax--heading{
 
-      font-size: 115%;
+      font-size: 100%; /*  increasing it will make weird atom line bugs  */
       font-weight : bold;
+      text-transform: uppercase ;
 
 }
 

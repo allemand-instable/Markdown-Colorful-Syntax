@@ -1,5 +1,5 @@
 # Markdown Colorful Syntax
- Modifications of Several markdown plugins's stylesheets for a eautiful look in editor and render
+ Modifications of Several markdown plugins's stylesheets for a beautiful look in editor and render
 
 
 ![DEMO](/img/atom_PcUIwKwXPu.png)
